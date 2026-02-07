@@ -21,7 +21,7 @@ export const metadata: Metadata = {
     appleWebApp: {
         capable: true,
         statusBarStyle: "black-translucent",
-        title: "Seanime",
+        title: "Alialime",
     },
     formatDetection: {
         telephone: false,
