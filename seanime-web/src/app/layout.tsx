@@ -12,7 +12,7 @@ export const dynamic = "force-static"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-    title: "Seanime",
+    title: "Alialime",
     description: "Self-hosted, user-friendly media server for anime and manga.",
     icons: {
         icon: "/icons/favicon.ico",
