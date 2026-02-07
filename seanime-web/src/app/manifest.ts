@@ -4,8 +4,8 @@ export const dynamic = "force-static"
 
 export default function manifest(): MetadataRoute.Manifest {
     return {
-        name: "Seanime",
-        short_name: "Seanime",
+        name: "Alialime",
+        short_name: "Alialime",
         description:
             "Self-hosted, user-friendly media server for anime and manga.",
         start_url: "/",
